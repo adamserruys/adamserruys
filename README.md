@@ -6,7 +6,7 @@
 <h2>Current Tech Stack</h2>
 <p>These days I spend time coding in React (primarily using Next.js), Node.js, and some plain old Javascript.  I'm hoping to make some time in the near future to learn TypeScript</p>
 
-<h2>When I'm not coding I enjoy</h2>
+<h2>Other things I enjoy outside of coding</h2>
 <ul>
   <li>Hanging with my wife and kids</li>
   <li>Trying to wrangle Maple and Pearl, my two crazy Maltipoos</li>
