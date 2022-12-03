@@ -11,5 +11,5 @@
   <li>Hanging with my wife and kids</li>
   <li>Trying to wrangle Maple and Pearl, my two crazy Maltipoos</li>
   <li>Playing guitar</li>
-  <li>Reading books that I can hardly comprehend (makes me feel smart)</li>
+  <li>Reading books that I can barely comprehend</li>
 </ul>
