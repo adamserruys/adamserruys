@@ -9,7 +9,7 @@
 <h2>Other things I enjoy outside of coding</h2>
 <ul>
   <li>Hanging with my wife and kids</li>
-  <li>Trying to wrangle Maple and Pearl, my two crazy Maltipoos</li>
+  <li>Trying to wrangle Maple and Pearl, my two crazy maltipoos</li>
   <li>Playing guitar</li>
   <li>Reading books that I can barely comprehend</li>
 </ul>
